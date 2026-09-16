@@ -9,7 +9,6 @@
 
 
 
-Sure 😄 **simple README matter**:
 
 ````markdown
 # CORS REST API
